@@ -44,5 +44,5 @@ You need to to write:
 
 # References
 
-[1] M. AHOOKHOSH, L.T.K. HIEN, N. GILLIS, AND P. PATRINOS, Multi-block Bregman proximal alternating linearized minimization and its application to orthogonal nonnegative matrix factorization, (2019) https://arxiv.org/pdf/1908.01402.pdf
+[1] M. Ahookhosh, L.T.K. Hien, N. Gillis, and P. Patrinos, Multi-block Bregman proximal alternating linearized minimization and its application to orthogonal nonnegative matrix factorization, (2019) https://arxiv.org/pdf/1908.01402.pdf
 
