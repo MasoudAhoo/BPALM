@@ -30,7 +30,7 @@ if you are not working in the root folder of the package or replacing '.' by the
 
 ## Example: orthogonal nonnegative matrix factorization (ONMF)
 
-We recommend to look at the following file to see how to use the package:
+We recommend to look at the following files to see how to use the package:
 * Demo/demo_ONMF.m: contains an example for comparing a fixed penalty version of BPALM, A-BPALM1, and A-BPALM2 for ONMF with synthetic data.
 * Demo/demo_continuation_ONMF.m: contains an example for comparing a continuation version of BPALM, A-BPALM1, and A-BPALM2 for ONMF with synthetic data.
 
