@@ -2,11 +2,11 @@ BPALM package
 =============
 
 
-This matlab package provide a generic solver for multi-block Bregman proximal alternating linearized minimization (BPALM) and its adaprive variants (A-BPALM1 and A-BPALM2) for solving structured nonsmooth nonconvex problems of the form
+This matlab package provides generic solvers for multi-block Bregman proximal alternating linearized minimization (BPALM) and its adaprive variants (A-BPALM1 and A-BPALM2) for solving structured nonsmooth nonconvex problems of the form
 
   min_x f(x)+sum_{i=1}^N g_i(x_i),
 
-where f is relatively smooth and g_i is proper and lower semicontinuous.
+where f is relatively smooth and g_i (i=1,...,n) are proper and lower semicontinuous.
 
 We provide three solvers for solving the above-mentioned problem:
 - BPALM: Bregman Proximal Alternating Linearized Minimization;
