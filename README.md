@@ -37,10 +37,10 @@ We recommend to look at the following files to see how to use the package:
 ## Solving your own optimization problem
 
 You need to to write:
-- a function for providing the function value and the gradient of the objective at point x (add the file to folder MatlabCodes/Test_functions);
-- a function for providing the function value and the gradient of the kernel at point x (add the file to folder MatlabCodes/Test_functions);
-- a function for providing a solution of the subproblem of BPALM (add the file to folder MatlabCodes/Subproblems);
-- a demo file like demo_ONMF.m or demo_continuation_ONMF.m for calling the algorithms.
+- a function for providing the function value and the gradient of the objective at point x (add the file to the folder MatlabCodes/Test_functions);
+- a function for providing the function value and the gradient of the kernel at point x (add the file to the folder MatlabCodes/Test_functions);
+- a function for providing a solution of the subproblem of BPALM (add the file to the folder MatlabCodes/Subproblems);
+- a demo file like demo_ONMF.m or demo_continuation_ONMF.m for calling the algorithms (add the file to the folder Demos).
 
 # References
 
